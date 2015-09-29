@@ -1,0 +1,23 @@
+{
+  "name": "gulp-sass",
+  "version": "0.0.0",
+  "authors": [
+    "Jakkrij Yoonaisil <jakkrij.y@codium.co>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "bower_components/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "~3.3.5"
+  }
+}
